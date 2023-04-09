@@ -23,9 +23,9 @@ Projects ✨
 
 I'm proud to have completed the following successful projects:
 
-🚀 https://ui.getmatted.com - A responsive and user-friendly UI for an online retail store.
+🚀 https://ui.getmatted.com - A responsive and user-friendly UI for an online advertise management.
 
-🚀 https://depthos.xyz - A web application that enables users to track their daily expenses and generate reports.
+🚀 https://depthos.xyz - A web application for NFTs.
 Let's Connect 🤝
 
 If you're interested in discussing a project or collaboration, don't hesitate to reach out to me! 🤝
