@@ -28,4 +28,9 @@ I'm proud to have completed the following successful projects:
 🚀 https://depthos.xyz - A web application that enables users to track their daily expenses and generate reports.
 Let's Connect 🤝
 
-If you're interested in discussing a project or collaboration, feel free to get in touch with me 📩.
+If you're interested in discussing a project or collaboration, don't hesitate to reach out to me! 🤝
+
+📩 My email: pratikbankar1999@gmail.com \
+📱 Phone: +91 7057018868
+
+Let's create something amazing together! 🚀
