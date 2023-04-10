@@ -1,4 +1,4 @@
-# 👨‍💻 Pratk Bankar - Full Stack Developer 👨‍💻
+# 👨‍💻 Pratik Bankar - Full Stack Developer 👨‍💻
 
 ### Hi there! I'm  Pratk Bankar, a Full Stack Developer with experience building web applications using a wide range of technologies including:
 
